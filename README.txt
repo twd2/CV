@@ -11,7 +11,7 @@ BASICS
 
 SKILLS
     Languages: English (basic, passed CET-6), Mandarin (native)
-    Programming Languages: Assembly (x86, x86-64, MIPS), C, C++, C#, Java, PHP, Python, VB.net, Verilog, VHDL
+    Programming Languages: Assembly (x86, x86-64, RISC-V), C, C++, C#, Java, PHP, Python, VB.net, Verilog, VHDL
     Programming Environments / Tools: Altium Designer, Bash, GCC, ISE, Linux, macOS, Quartus, Visual Studio, Windows
 
 EDUCATION
@@ -92,40 +92,55 @@ RELEVANT COURSES
         Computer Network Security Technology
               A+       4.0
     * Junior    - Spring 2018 *
-        TODO
+        Numerical Analysis
+              ?        ?.?
+        Elementary Number Theory
+              ?        ?.?
+        Operating Systems
+              ?        ?.?
+        Computer Architecture
+              ?        ?.?
+        Storage Technology Foundations
+              ?        ?.?
 
 RESEARCH INTERESTS
     * Operating System
     * Computer Networks
     * Software Reliability
     * Hardware Reliability
+    * Computer Architecture
 
 PUBLICATIONS
-    ???
+    :(
+
+WORKSHOPS
+    Yu-Ping Wang, * Wen-De Tan * , Shi-Min Hu. Efficient Inter-Process Communication Framework for Robotics Middleware. 
+        The Fourth Workshop on Smart Robotics, Computational Visual Media Conference, 2018.
 
 PATENTS
-    ???
+    :(
 
 SELECTED PROJECTS
     Vijos 2: A free online judge system. Core Developer and Ops. Jul 2012 - Aug 2015
         Technologies: MongoDB, PHP
         Got positive responses from users.
         Not Open Source
-    vj4: A free online judge system, replacement of Vijos 2. Core Developer and Ops. Aug 2015 - Now
+    vj4: A free online judge system, replacement of Vijos 2. Core Developer, and Ops. Aug 2015 - Now
         Technologies: MongoDB, Python
         Got positive responses from users.
         GitHub: https://github.com/vijos/vj4
+        GitHub: https://github.com/vijos/jd4
     WOW_CROW: A somatic game on FPGA. Architect and Developer. May 2017 - Jun 2017
         Pure hardware implementation.
         Technologies: UART, SD card support
-        Students like it.
+        Classmates like it.
         GitHub: https://github.com/Colin97/WOW_CROW
-    Event Registration: An event registration system for our student union. Team Leader, Architect and Developer. Oct 2017 - Dec 2017
-        ???
-        Internal Open Source
+    Event Registration: An event registration system for our student union. Team Leader, Architect, and Developer. Oct 2017 - Dec 2017
+        Has been internally deployed.
+        GitHub: https://github.com/twd2/EventRegistration
     THCOMIPS16e: A SoPC. Team Leader, Architect and Developer. Nov 2017 - Dec 2017
         A 5-staged pipeline microprocessor with a MIPS16e-like instruction set architecture.
-        SD interface with DMA support.
+        With rich peripherals including SD interface having DMA support.
         GitHub: https://github.com/twd2/THCOMIPS16e
 
 HONORS AND AWARDS
