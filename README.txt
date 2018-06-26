@@ -146,4 +146,4 @@ SELECTED PROJECTS
 HONORS AND AWARDS
     * 2016 * Network Information Security Competition (Tongji CTF 2016), with Yanqiao ZHU, 1st place
     * 2016 * 第三十三届全国部分地区大学生物理竞赛非物理类A组, 2nd prize
-    * 2017 * Scholarship for Academic Excellence, CNY 3000
+    * 2017 * Scholarship for Academic Excellence, 3000 CNY
