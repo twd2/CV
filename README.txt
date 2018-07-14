@@ -93,15 +93,15 @@ RELEVANT COURSES
               A+       4.0
     * Junior    - Spring 2018 *
         Numerical Analysis
-              ?        ?.?
+              A        4.0
         Elementary Number Theory
-              ?        ?.?
+              A        4.0
         Operating Systems
-              ?        ?.?
+              A        4.0
         Computer Architecture
-              ?        ?.?
+              A-       3.7
         Storage Technology Foundations
-              ?        ?.?
+              A        4.0
 
 RESEARCH INTERESTS
     * Operating System
