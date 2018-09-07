@@ -17,12 +17,12 @@ SKILLS
 EDUCATION
     Bachelor of Engineering Tsinghua University Sept 2015 - Aug 2019 (expected)
     Major in Computer Science and Technology
-    GPA: 3.? / 4.0 (?.?%)  Rank: ? / 139 (?.?%)
+    GPA: 3.?? / 4.0 (??.?%)  Rank: ?? / 144 (??.?%)
 
 RELEVANT COURSES
         Course
             Grade  Grade Point
-    * Freshman  - Autumn 2015 *
+    * Autumn 2015 *
         Calculus A(1)
               A-       3.7
         Linear Algebra(1)
@@ -33,7 +33,7 @@ RELEVANT COURSES
               A-       3.7
         Computer Science: An Overview
               A        4.0
-    * Freshman  - Spring 2016 *
+    * Spring 2016 *
         Calculus A(2)
               A-       3.7
         Linear Algebra(2)
@@ -44,7 +44,7 @@ RELEVANT COURSES
               B+       3.3
         Foundation of Object-Oriented Programming
               A-       3.7
-    * Sophomore - Autumn 2016 *
+    * Autumn 2016 *
         Programing and Training
               A+       4.0
         Introduction to Complex Analysis
@@ -59,7 +59,7 @@ RELEVANT COURSES
               A        4.0
         Experiment of Fundamentals electronics
               A-       3.7
-    * Sophomore - Spring 2017 *
+    * Spring 2017 *
         Probability and Statistics
               A        4.0
         Lab. of Physics B(2)
@@ -74,7 +74,7 @@ RELEVANT COURSES
               A        4.0
         Formal Language and Automation
               A-       3.7
-    * Junior    - Autumn 2017 *
+    * Autumn 2017 *
         Assembly Language Programming
               A        4.0
         Java Program Design and Training
@@ -91,7 +91,7 @@ RELEVANT COURSES
               A        4.0
         Computer Network Security Technology
               A+       4.0
-    * Junior    - Spring 2018 *
+    * Spring 2018 *
         Numerical Analysis
               A        4.0
         Elementary Number Theory
@@ -104,10 +104,10 @@ RELEVANT COURSES
               A        4.0
 
 RESEARCH INTERESTS
-    * Operating System
+    * Cybersecurity
+    * System Security
     * Computer Networks
-    * Software Reliability
-    * Hardware Reliability
+    * Software and Hardware Reliability
     * Computer Architecture
 
 PUBLICATIONS
@@ -125,7 +125,7 @@ SELECTED PROJECTS
         Technologies: MongoDB, PHP
         Got positive responses from users.
         Not Open Source
-    vj4: A free online judge system, replacement of Vijos 2. Core Developer, and Ops. Aug 2015 - Now
+    vj4: A free online judge system, replacement of Vijos 2. Core Developer and Ops. Aug 2015 - Now
         Technologies: MongoDB, Python
         Got positive responses from users.
         GitHub: https://github.com/vijos/vj4
@@ -138,7 +138,7 @@ SELECTED PROJECTS
     Event Registration: An event registration system for our student union. Team Leader, Architect, and Developer. Oct 2017 - Dec 2017
         Has been internally deployed.
         GitHub: https://github.com/twd2/EventRegistration
-    THCOMIPS16e: A SoPC. Team Leader, Architect and Developer. Nov 2017 - Dec 2017
+    THCOMIPS16e: A SoPC. Team Leader, Architect, and Developer. Nov 2017 - Dec 2017
         A 5-staged pipeline microprocessor with a MIPS16e-like instruction set architecture.
         With rich peripherals including SD interface having DMA support.
         GitHub: https://github.com/twd2/THCOMIPS16e
@@ -147,3 +147,4 @@ HONORS AND AWARDS
     * 2016 * Network Information Security Competition (Tongji CTF 2016), with Yanqiao ZHU, 1st place
     * 2016 * 第三十三届全国部分地区大学生物理竞赛非物理类A组, 2nd prize
     * 2017 * Scholarship for Academic Excellence, 3000 CNY
+    * 2018 * Proposed to receive CCF (China Computer Federation) Outstanding College Student Award (will be given on October 25th, 2018)
