@@ -115,7 +115,7 @@ PUBLICATIONS
 
 WORKSHOPS
     Yu-Ping Wang, * Wen-De Tan * , Shi-Min Hu. Efficient Inter-Process Communication Framework for Robotics Middleware. 
-        The Fourth Workshop on Smart Robotics, Computational Visual Media Conference, 2018.
+        In The Fourth Workshop on Smart Robotics, Computational Visual Media Conference, 2018.
 
 PATENTS
     :(
