@@ -147,6 +147,8 @@ HONORS AND AWARDS
     * 2016 * Network Information Security Competition (Tongji CTF 2016), with Yanqiao ZHU, 1st place
     * 2016 * 第三十三届全国部分地区大学生物理竞赛非物理类A组, 2nd prize
     * 2017 * Scholarship for Academic Excellence, 3000 CNY
-    * 2018 * Proposed to receive CCF (China Computer Federation) Outstanding College Student Award (will be given on October 25th, 2018)
     * 2018 * Tsinghua CTF Competition (THUCTF), rank 6 / ?
     * 2018 * Scholarship for Comprehensive Excellence, 10000 CNY (expected)
+    * 2018 * The CCF (China Computer Federation) Elite Collegiate Award
+
+        GitHub: https://github.com/twd2/THCOMIPS16e
