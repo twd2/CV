@@ -150,5 +150,3 @@ HONORS AND AWARDS
     * 2018 * Tsinghua CTF Competition (THUCTF), rank 6 / ?
     * 2018 * Scholarship for Comprehensive Excellence, 10000 CNY (expected)
     * 2018 * The CCF (China Computer Federation) Elite Collegiate Award
-
-        GitHub: https://github.com/twd2/THCOMIPS16e
