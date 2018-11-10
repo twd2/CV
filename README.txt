@@ -111,7 +111,7 @@ RESEARCH INTERESTS
     * Computer Architecture
 
 PUBLICATIONS
-    Jia-Ju Bai, Julia Lawall, * Wende Tan * , Shi-Min Hu. DCNS: Automated Detection Of Conservative Non-Sleep Defects in the Linux Kernel (to be appeared)
+    Jia-Ju Bai, Julia Lawall, * Wende Tan * , Shi-Min Hu. DCNS: Automated Detection Of Conservative Non-Sleep Defects in the Linux Kernel (to appear)
         In Proceedings of the 24th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2019.
 
 WORKSHOPS
