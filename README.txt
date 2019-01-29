@@ -103,6 +103,17 @@ RELEVANT COURSES
               A-       3.7
         Storage Technology Foundations
               A        4.0
+    * Autumn 2018 *
+        Professional Practice
+              A-       3.7
+        Progrmming Languages Laboratory
+              ?        ?
+        Embedded System
+              ?        ?
+        Network Security Engineering and Practice
+              ?        ?
+        Network Engineering Design
+              ?        ?
 
 RESEARCH INTERESTS
     * Cybersecurity
