@@ -24,24 +24,24 @@ RELEVANT COURSES
         Course
             Grade  Grade Point
     * Autumn 2015 *
-        Calculus A(1)
+        Calculus A (1)
               A-       3.7
-        Linear Algebra(1)
+        Linear Algebra (1)
               A+       4.0
-        Discrete Mathematics(1)
+        Discrete Mathematics (1)
               A-       3.7
         Fundamentals of Programming
               A-       3.7
         Computer Science: An Overview
               A        4.0
     * Spring 2016 *
-        Calculus A(2)
+        Calculus A (2)
               A-       3.7
-        Linear Algebra(2)
+        Linear Algebra (2)
               A        4.0
-        Physics for Scientists and Engineers B(1)
+        Physics for Scientists and Engineers B (1)
               A-       3.7
-        Discrete Mathematics(2)
+        Discrete Mathematics (2)
               B+       3.3
         Foundation of Object-Oriented Programming
               A-       3.7
@@ -50,9 +50,9 @@ RELEVANT COURSES
               A+       4.0
         Introduction to Complex Analysis
               A        4.0
-        Physics for Scientists and Engineers B(2)
+        Physics for Scientists and Engineers B (2)
               A+       4.0
-        Lab. of Physics B(1)
+        Lab. of Physics B (1)
               A        4.0
         Data Structures
               A-       3.7
@@ -63,7 +63,7 @@ RELEVANT COURSES
     * Spring 2017 *
         Probability and Statistics
               A        4.0
-        Lab. of Physics B(2)
+        Lab. of Physics B (2)
               B+       3.3
         Introduction to Artificial Intelligence
               A-       3.7
