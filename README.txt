@@ -161,5 +161,5 @@ HONORS AND AWARDS
     * 2016 * 第三十三届全国部分地区大学生物理竞赛非物理类A组, 2nd prize
     * 2017 * Scholarship for Academic Excellence, 3000 CNY
     * 2018 * Tsinghua CTF Competition (THUCTF), rank 6 / ?
-    * 2018 * Scholarship for Comprehensive Excellence, 10000 CNY (expected)
+    * 2018 * Scholarship for Comprehensive Excellence, 10000 CNY
     * 2018 * The CCF (China Computer Federation) Elite Collegiate Award
