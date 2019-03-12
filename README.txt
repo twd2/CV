@@ -106,14 +106,14 @@ RELEVANT COURSES
     * Autumn 2018 *
         Professional Practice
               A-       3.7
-        Progrmming Languages Laboratory
-              ?        ?
+        Programming Languages Laboratory
+              A        4.0
         Embedded System
-              ?        ?
+              A        4.0
         Network Security Engineering and Practice
-              ?        ?
+              A        4.0
         Network Engineering Design
-              ?        ?
+              A        4.0
 
 RESEARCH INTERESTS
     * Cybersecurity
