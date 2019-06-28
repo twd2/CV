@@ -114,6 +114,9 @@ RELEVANT COURSES
               A        4.0
         Network Engineering Design
               A        4.0
+    * Spring 2019 *
+        Bachelor Thesis
+              A+       4.0
 
 RESEARCH INTERESTS
     * Cybersecurity
@@ -125,6 +128,8 @@ RESEARCH INTERESTS
 PUBLICATIONS
     Jia-Ju Bai, Julia Lawall, * Wende Tan * , Shi-Min Hu. DCNS: Automated Detection Of Conservative Non-Sleep Defects in the Linux Kernel
         In Proceedings of the 24th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2019.
+    Yu-Ping Wang, * Wende Tan* , Xu-Qiang Hu, Dinesh Manocha, Shi-Min Hu. TZC: Efficient Inter-Process Communication for Robotics Middleware with Partial Serialization
+        In Proceedings of the 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019.
 
 WORKSHOPS
     Yu-Ping Wang, * Wen-De Tan * , Shi-Min Hu. Efficient Inter-Process Communication Framework for Robotics Middleware. 
@@ -163,3 +168,4 @@ HONORS AND AWARDS
     * 2018 * Tsinghua CTF Competition (THUCTF), rank 6 / ?
     * 2018 * Scholarship for Comprehensive Excellence, 10000 CNY
     * 2018 * The CCF (China Computer Federation) Elite Collegiate Award
+    * 2019 * Outstanding Bachelor Thesis Award
