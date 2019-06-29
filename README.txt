@@ -15,9 +15,9 @@ SKILLS
     Programming Environments / Tools: Altium Designer, Bash, GCC, ISE, Linux, macOS, Qt, Quartus, Visual Studio, Windows
 
 EDUCATION
-    Bachelor of Engineering Tsinghua University Sept 2015 - Aug 2019 (expected)
+    Bachelor of Engineering Tsinghua University Sept 2015 - July 2019
     Major in Computer Science and Technology
-    GPA: 3.?? / 4.00 (??.?%)  Rank: ?? / 144 (??.?%)
+    GPA: 3.?? / 4.00 (??.?%)  Rank: ?? / 144 (??.?%) *secret*
     Major GPA: 3.888 / 4.000 (97.2%) Rank: 2 / 140 (1.43%)
 
 RELEVANT COURSES
@@ -128,7 +128,7 @@ RESEARCH INTERESTS
 PUBLICATIONS
     Jia-Ju Bai, Julia Lawall, * Wende Tan * , Shi-Min Hu. DCNS: Automated Detection Of Conservative Non-Sleep Defects in the Linux Kernel
         In Proceedings of the 24th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2019.
-    Yu-Ping Wang, * Wende Tan* , Xu-Qiang Hu, Dinesh Manocha, Shi-Min Hu. TZC: Efficient Inter-Process Communication for Robotics Middleware with Partial Serialization
+    Yu-Ping Wang, * Wende Tan * , Xu-Qiang Hu, Dinesh Manocha, Shi-Min Hu. TZC: Efficient Inter-Process Communication for Robotics Middleware with Partial Serialization
         In Proceedings of the 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019.
 
 WORKSHOPS
