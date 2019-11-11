@@ -128,6 +128,8 @@ RESEARCH INTERESTS
 PUBLICATIONS
     Jia-Ju Bai, Julia Lawall, * Wende Tan * , Shi-Min Hu. DCNS: Automated Detection Of Conservative Non-Sleep Defects in the Linux Kernel
         In Proceedings of the 24th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2019.
+    Yu-Ping Wang, Xu-Qiang Hu, Zi-Xin Zou, * Wende Tan * , Gang Tan. IVT: An Efficient Method for Sharing Subtype Polymorphic Objects
+        In Proceedings of the ACM on Programming Languages Volume 3 Issue OOPSLA, October 2019.
     Yu-Ping Wang, * Wende Tan * , Xu-Qiang Hu, Dinesh Manocha, Shi-Min Hu. TZC: Efficient Inter-Process Communication for Robotics Middleware with Partial Serialization
         In Proceedings of the 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019.
 
@@ -160,6 +162,7 @@ SELECTED PROJECTS
         A 5-staged pipeline microprocessor with a MIPS16e-like instruction set architecture.
         With rich peripherals including SD interface having DMA support.
         GitHub: https://github.com/twd2/THCOMIPS16e
+    FPGA-NAT64: ongoing
 
 HONORS AND AWARDS
     * 2016 * Network Information Security Competition (Tongji CTF 2016), with Yanqiao ZHU, 1st place
