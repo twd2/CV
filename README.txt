@@ -19,6 +19,10 @@ EDUCATION
     Major in Computer Science and Technology
     GPA: 3.?? / 4.00 (??.?%)  Rank: ?? / 144 (??.?%) *secret*
     Major GPA: 3.888 / 4.000 (97.2%) Rank: 2 / 140 (1.43%)
+    
+    Postgraduate Student Tsinghua University Sept 2019 - ????
+    Network and Information Security Lab
+    
 
 RELEVANT COURSES
         Course
@@ -162,7 +166,8 @@ SELECTED PROJECTS
         A 5-staged pipeline microprocessor with a MIPS16e-like instruction set architecture.
         With rich peripherals including SD interface having DMA support.
         GitHub: https://github.com/twd2/THCOMIPS16e
-    FPGA-NAT64: ongoing
+    FPGA-NAT64: A four-10gbe-port dual-stack router with IPv4 and IPv6 translation support. Sept 2019 - Dec 2019
+        GitHub: https://github.com/twd2/fpga-nat64
 
 HONORS AND AWARDS
     * 2016 * Network Information Security Competition (Tongji CTF 2016), with Yanqiao ZHU, 1st place
