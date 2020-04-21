@@ -20,7 +20,8 @@ EDUCATION
     GPA: 3.?? / 4.00 (??.?%)  Rank: ?? / 144 (??.?%) *secret*
     Major GPA: 3.888 / 4.000 (97.2%) Rank: 2 / 140 (1.43%)
     
-    Postgraduate Student Tsinghua University Sept 2019 - ????
+    Master Student Tsinghua University Sept 2019 - ????
+    Major in Computer Science and Technology
     Network and Information Security Lab
     
 
