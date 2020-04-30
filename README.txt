@@ -1,6 +1,6 @@
 Wende Tan
 ----
-twd2 at 163 dot com * WeChat: twd_22 * QQ: 459834574
+twd2 at 163 dot com * QQ: 459834574 * Telegram: twd_22
 https://twd2.me * https://github.com/twd2
 ----
 
