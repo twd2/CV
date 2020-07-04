@@ -121,6 +121,24 @@ RELEVANT COURSES
     * Spring 2019 *
         Bachelor Thesis
               A+       4.0
+    * Autumn 2019 *
+        Advanced Computer Network
+              A-       4.0
+        Foundations and Frontiers of Cyberspace Security
+              A-       4.0
+        High-Performance Router Architecture and High-speed Networking Technologies
+              A+       4.0
+        Software Vulnerability Discovery and Exploits
+              A        4.0
+    * Spring 2020 *
+        Data Security
+              A+       4.0
+        Algorithms and Its Complexity Theory
+              B        3.3
+        Advanced Operating Systems
+              A-       4.0
+        Introduction to Distributed Systems
+              A+       4.0
 
 RESEARCH INTERESTS
     * Cybersecurity
