@@ -141,10 +141,11 @@ RELEVANT COURSES
               A+       4.0
 
 RESEARCH INTERESTS
-    * Cybersecurity
     * System Security
+      * Hardware-Software Co-design Defenses
+      * Side Channel
+    * Cybersecurity
     * Computer Networks
-    * Software and Hardware Reliability
     * Computer Architecture
 
 PUBLICATIONS
