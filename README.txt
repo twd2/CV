@@ -177,13 +177,6 @@ SELECTED PROJECTS
         Technologies: UART, SD card support
         Classmates like it.
         GitHub: https://github.com/Colin97/WOW_CROW
-    Event Registration: An event registration system for our student union. Team Leader, Architect, and Developer. Oct 2017 - Dec 2017
-        Has been internally deployed.
-        GitHub: https://github.com/twd2/EventRegistration
-    THCOMIPS16e: A SoPC. Team Leader, Architect, and Developer. Nov 2017 - Dec 2017
-        A 5-staged pipeline microprocessor with a MIPS16e-like instruction set architecture.
-        With rich peripherals including SD interface having DMA support.
-        GitHub: https://github.com/twd2/THCOMIPS16e
     FPGA-NAT64: A four-10gbe-port dual-stack router with IPv4 and IPv6 translation support. Sept 2019 - Dec 2019
         GitHub: https://github.com/twd2/fpga-nat64
 
