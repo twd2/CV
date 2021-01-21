@@ -17,7 +17,7 @@ SKILLS
 EDUCATION
     Bachelor of Engineering Tsinghua University Sept 2015 - July 2019
     Major in Computer Science and Technology
-    GPA: 3.?? / 4.00 (??.?%)  Rank: ?? / 144 (??.?%) *secret*
+    GPA of first 3 years: 3.59 / 4.00 (89.75%)  Rank: 16 / 144 (11.11%)
     Major GPA: 3.888 / 4.000 (97.2%) Rank: 2 / 140 (1.43%)
 
     Master Student Tsinghua University Sept 2019 - ????
