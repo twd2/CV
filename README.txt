@@ -1,6 +1,6 @@
 Wende Tan
 ----
-twd2 at 163 dot com * QQ: 459834574 * Telegram: twd_22
+twd2 at 163 dot com * twd2 dot me at gmail dot com * QQ: 459834574 * Telegram: twd_22
 https://twd2.me * https://github.com/twd2
 ----
 
@@ -149,6 +149,8 @@ RESEARCH INTERESTS
     * Computer Architecture
 
 PUBLICATIONS
+    Google Scholar: https://scholar.google.com/citations?user=IDvZ0CcAAAAJ
+    dblp: https://dblp.org/pid/228/6653.html
     Jia-Ju Bai, Julia Lawall, * Wende Tan * , Shi-Min Hu. DCNS: Automated Detection Of Conservative Non-Sleep Defects in the Linux Kernel
         In Proceedings of the 24th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2019.
     Yu-Ping Wang, Xu-Qiang Hu, Zi-Xin Zou, * Wende Tan * , Gang Tan. IVT: An Efficient Method for Sharing Subtype Polymorphic Objects
