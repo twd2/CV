@@ -18,11 +18,12 @@ EDUCATION
     Bachelor of Engineering Tsinghua University Sept 2015 - July 2019
     Major in Computer Science and Technology
     GPA of first 3 years: 3.59 / 4.00 (89.75%)  Rank: 16 / 144 (11.11%)
-    Major GPA: 3.888 / 4.000 (97.2%) Rank: 2 / 140 (1.43%)
+    GPA of major courses: 3.888 / 4.000 (97.2%) Rank: 2 / 140 (1.43%)
 
     Master Student Tsinghua University Sept 2019 - ????
     Major in Computer Science and Technology
     Network and Information Security Lab
+    GPA of degree courses: 3.86 / 4.00 (96.3888%)  Rank: 12 / 140 (8.57%)
 
 RELEVANT COURSES
         Course
@@ -149,21 +150,19 @@ RESEARCH INTERESTS
     * Computer Architecture
 
 PUBLICATIONS
-    Google Scholar: https://scholar.google.com/citations?user=IDvZ0CcAAAAJ
-    dblp: https://dblp.org/pid/228/6653.html
-    Jia-Ju Bai, Julia Lawall, * Wende Tan * , Shi-Min Hu. DCNS: Automated Detection Of Conservative Non-Sleep Defects in the Linux Kernel
-        In Proceedings of the 24th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2019.
-    Yu-Ping Wang, Xu-Qiang Hu, Zi-Xin Zou, * Wende Tan * , Gang Tan. IVT: An Efficient Method for Sharing Subtype Polymorphic Objects
-        In Proceedings of the ACM on Programming Languages Volume 3 Issue OOPSLA, October 2019.
-    Yu-Ping Wang, * Wende Tan * , Xu-Qiang Hu, Dinesh Manocha, Shi-Min Hu. TZC: Efficient Inter-Process Communication for Robotics Middleware with Partial Serialization
-        In Proceedings of the 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019.
+    > Google Scholar: https://scholar.google.com/citations?user=IDvZ0CcAAAAJ
+    > dblp: https://dblp.org/pid/228/6653.html
+    > * Wende Tan * , Yuan Li, Chao Zhang, Xingman Chen, Songtao Yang, Ying Liu, Jianping Wu. ******. In Proceedings of the 58th Annual Design Automation Conference (DAC), 2021. (to appear)
+    > Jia-Ju Bai, Julia Lawall, * Wende Tan * , Shi-Min Hu. DCNS: Automated Detection Of Conservative Non-Sleep Defects in the Linux Kernel. In Proceedings of the 24th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2019.
+    > Yu-Ping Wang, Xu-Qiang Hu, Zi-Xin Zou, * Wende Tan * , Gang Tan. IVT: An Efficient Method for Sharing Subtype Polymorphic Objects. In Proceedings of the ACM on Programming Languages Volume 3 Issue OOPSLA, October 2019.
+    > Yu-Ping Wang, * Wende Tan * , Xu-Qiang Hu, Dinesh Manocha, Shi-Min Hu. TZC: Efficient Inter-Process Communication for Robotics Middleware with Partial Serialization. In Proceedings of the 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019.
 
 WORKSHOPS
-    Yu-Ping Wang, * Wen-De Tan * , Shi-Min Hu. Efficient Inter-Process Communication Framework for Robotics Middleware. 
-        In The Fourth Workshop on Smart Robotics, Computational Visual Media Conference, 2018.
+    > Yu-Ping Wang, * Wen-De Tan * , Shi-Min Hu. Efficient Inter-Process Communication Framework for Robotics Middleware. In The Fourth Workshop on Smart Robotics, Computational Visual Media Conference, 2018.
 
 PATENTS
-    :(
+    > ongoing
+    > ongoing
 
 SELECTED PROJECTS
     Vijos 2: A free online judge system. Core Developer and Ops. Jul 2012 - Aug 2015
