@@ -161,8 +161,8 @@ WORKSHOPS
     > Yu-Ping Wang, * Wen-De Tan * , Shi-Min Hu. Efficient Inter-Process Communication Framework for Robotics Middleware. In The Fourth Workshop on Smart Robotics, Computational Visual Media Conference, 2018.
 
 PATENTS
-    > 软件的保护方法、装置、电子设备及存储介质, Chinese Patent. (已受理)
-    > 敏感数据的读取方法、装置、电子设备及存储介质, Chinese Patent. (已受理)
+    > Chao Zhang, * Wende Tan * , Yuan Li, Ying Liu, Jianping Wu. 软件的保护方法、装置、电子设备及存储介质. Chinese Patent. (已受理)
+    > Chao Zhang, * Wende Tan * , Yuan Li, Ying Liu, Jianping Wu. 敏感数据的读取方法、装置、电子设备及存储介质. Chinese Patent. (已受理)
 
 SELECTED PROJECTS
     Vijos 2: A free online judge system. Core Developer and Ops. Jul 2012 - Aug 2015
