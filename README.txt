@@ -11,8 +11,8 @@ BASICS
 
 SKILLS
     Languages: English (basic, passed CET-6), Mandarin (native)
-    Programming Languages: Assembly (x86, x86-64, RISC-V), C, C++, C#, Go, Java, PHP, Python, VB.net, Verilog, VHDL
-    Programming Environments / Tools: Altium Designer, Bash, GCC, ISE, Linux, macOS, Qt, Quartus, Visual Studio, Vivado, Windows
+    Programming Languages: Assembly (x86, x86-64, RISC-V), C, C++, C#, Go, Java, PHP, Python, SystemVerilog, VB.net, Verilog, VHDL
+    Programming Environments / Tools: Altium Designer, Bash, GCC, ISE, Linux, LLVM, macOS, Qt, Quartus, Visual Studio, Vivado, Windows
 
 EDUCATION
     Bachelor of Engineering Tsinghua University Sept 2015 - July 2019
