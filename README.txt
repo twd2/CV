@@ -20,7 +20,7 @@ EDUCATION
     GPA of first 3 years: 3.59 / 4.00 (89.75%)  Rank: 16 / 144 (11.11%)
     GPA of major courses: 3.888 / 4.000 (97.2%) Rank: 2 / 140 (1.43%)
 
-    Master Student Tsinghua University Sept 2019 - ????
+    Master Student Tsinghua University Sept 2019 - July 2022 (expected)
     Major in Computer Science and Technology
     Network and Information Security Lab
     GPA of degree courses: 3.86 / 4.00 (96.3888%)  Rank: 12 / 140 (8.57%)
@@ -163,6 +163,12 @@ WORKSHOPS
 PATENTS
     > Chao Zhang, * Wende Tan * , Yuan Li, Ying Liu, Jianping Wu. 软件的保护方法、装置、电子设备及存储介质. Chinese Patent. (已受理)
     > Chao Zhang, * Wende Tan * , Yuan Li, Ying Liu, Jianping Wu. 敏感数据的读取方法、装置、电子设备及存储介质. Chinese Patent. (已受理)
+
+SERVICES
+    Teaching Assistant of Computer Network Principles (2020 Fall, undergraduates' major course)
+        Supervised 18 outstanding students to finish the challenging hardware router project.
+        The project includes a homemade RISC-V processor with RV32I support and a forwarding engine with four one-gigabit ports wire-speed forwarding capability.  They achieved forwarding tables sized 8000+ IPv4 prefixes on average.
+    Member of the User Representative Committee of Information Technology at Tsinghua University
 
 SELECTED PROJECTS
     Vijos 2: A free online judge system. Core Developer and Ops. Jul 2012 - Aug 2015
