@@ -10,7 +10,7 @@ BASICS
     Birthdate: 1997
 
 SKILLS
-    Languages: English (basic, passed CET-6), Mandarin (native)
+    Languages: English (CET-6), Mandarin (native)
     Programming Languages: Assembly (x86, x86-64, RISC-V), C, C++, C#, Go, Java, PHP, Python, SystemVerilog, VB.net, Verilog, VHDL
     Programming Environments / Tools: Altium Designer, Bash, GCC, ISE, Linux, LLVM, macOS, Qt, Quartus, Visual Studio, Vivado, Windows
 
@@ -192,7 +192,7 @@ HONORS AND AWARDS
     * 2016 * Network Information Security Competition (Tongji CTF 2016), with Yanqiao ZHU, 1st place
     * 2016 * 第三十三届全国部分地区大学生物理竞赛非物理类A组, 2nd prize
     * 2017 * Scholarship for Academic Excellence, 3000 CNY
-    * 2018 * Tsinghua CTF Competition (THUCTF), rank 6 / ?
+    * 2018 * Tsinghua CTF Competition (THUCTF), Rank 6
     * 2018 * Scholarship for Comprehensive Excellence, 10000 CNY
     * 2018 * The CCF (China Computer Federation) Elite Collegiate Award
     * 2019 * Outstanding Bachelor Thesis Award
