@@ -23,7 +23,7 @@ EDUCATION
     Master Student Tsinghua University Sept 2019 - July 2022 (expected)
     Major in Computer Science and Technology
     Network and Information Security Lab
-    GPA of degree courses: 3.86 / 4.00 (96.3888%)  Rank: 12 / 140 (8.57%)
+    GPA of degree courses: 3.86 / 4.00 (96.52%)  Rank: 13 / 141 (9.22%)
 
 RELEVANT COURSES
         Course
