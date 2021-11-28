@@ -152,7 +152,7 @@ RESEARCH INTERESTS
 PUBLICATIONS
     > Google Scholar: https://scholar.google.com/citations?user=IDvZ0CcAAAAJ
     > dblp: https://dblp.org/pid/228/6653.html
-    > * Wende Tan * , Yuan Li, Chao Zhang, Xingman Chen, Songtao Yang, Ying Liu, Jianping Wu. ROLoad: Securing Sensitive Operations with Pointee Integrity. In Proceedings of the 58th Annual Design Automation Conference (DAC), 2021. (to appear)
+    > * Wende Tan * , Yuan Li, Chao Zhang, Xingman Chen, Songtao Yang, Ying Liu, Jianping Wu. ROLoad: Securing Sensitive Operations with Pointee Integrity. In Proceedings of the 58th Annual Design Automation Conference (DAC), 2021.
     > Jia-Ju Bai, Julia Lawall, * Wende Tan * , Shi-Min Hu. DCNS: Automated Detection Of Conservative Non-Sleep Defects in the Linux Kernel. In Proceedings of the 24th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2019.
     > Yu-Ping Wang, Xu-Qiang Hu, Zi-Xin Zou, * Wende Tan * , Gang Tan. IVT: An Efficient Method for Sharing Subtype Polymorphic Objects. In Proceedings of the ACM on Programming Languages Volume 3 Issue OOPSLA, October 2019.
     > Yu-Ping Wang, * Wende Tan * , Xu-Qiang Hu, Dinesh Manocha, Shi-Min Hu. TZC: Efficient Inter-Process Communication for Robotics Middleware with Partial Serialization. In Proceedings of the 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019.
@@ -161,7 +161,7 @@ WORKSHOPS
     > Yu-Ping Wang, * Wen-De Tan * , Shi-Min Hu. Efficient Inter-Process Communication Framework for Robotics Middleware. In The Fourth Workshop on Smart Robotics, Computational Visual Media Conference, 2018.
 
 PATENTS
-    > Chao Zhang, * Wende Tan * , Yuan Li, Ying Liu, Jianping Wu. 软件的保护方法、装置、电子设备及存储介质. Chinese Patent. (已受理)
+    > Chao Zhang, * Wende Tan * , Yuan Li, Ying Liu, Jianping Wu. 软件的保护方法、装置、电子设备及存储介质. Chinese Patent.
     > Chao Zhang, * Wende Tan * , Yuan Li, Ying Liu, Jianping Wu. 敏感数据的读取方法、装置、电子设备及存储介质. Chinese Patent. (已受理)
 
 SERVICES
