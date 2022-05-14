@@ -20,7 +20,7 @@ EDUCATION
     GPA of first 3 years: 3.59 / 4.00 (89.75%)  Rank: 16 / 144 (11.11%)
     GPA of major courses: 3.888 / 4.000 (97.2%) Rank: 2 / 140 (1.43%)
 
-    Master Student Tsinghua University Sept 2019 - July 2022 (expected)
+    Ph.D. Student Tsinghua University Sept 2019 - July 2024 (expected)
     Major in Computer Science and Technology
     Network and Information Security Lab
     GPA of degree courses: 3.86 / 4.00 (96.52%)  Rank: 13 / 141 (9.22%)
@@ -166,11 +166,16 @@ PATENTS
 
 SERVICES
     Teaching Assistant of Computer Network Principles (2020 Fall, undergraduates' major course)
-        Supervised 18 outstanding students to finish the challenging hardware router project.
+        Supervised 18 outstanding students to finish the challenging hardware IPv4 router project.
         The project includes a homemade RISC-V processor with RV32I support and a forwarding engine with four one-gigabit ports wire-speed forwarding capability.  They achieved forwarding tables sized 8000+ IPv4 prefixes on average.
+    Teaching Assistant of Computer Network Principles (2021 Fall, undergraduates' major course)
+        Supervised 6 outstanding students to finish the challenging hardware IPv6 router project.
+        The project includes a homemade RISC-V processor with RV32I support and a forwarding engine with four one-gigabit ports wire-speed forwarding capability.  The best group achieved forwarding tables sized 8000+ IPv6 prefixes.
     Member of the User Representative Committee of Information Technology at Tsinghua University
 
 SELECTED PROJECTS
+    Linux: Contributor.
+    LLVM: Contributor.
     Vijos 2: A free online judge system. Core Developer and Ops. Jul 2012 - Aug 2015
         Technologies: MongoDB, PHP
         Got positive responses from users.
