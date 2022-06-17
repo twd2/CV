@@ -140,6 +140,9 @@ RELEVANT COURSES
               A-       4.0
         Introduction to Distributed Systems
               A+       4.0
+    * Autumn 2021 *
+        Combinatorics
+              A-       4.0
 
 RESEARCH INTERESTS
     * System Security
