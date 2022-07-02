@@ -179,6 +179,7 @@ SERVICES
 SELECTED PROJECTS
     Linux: Contributor.
     LLVM: Contributor.
+    gem5: Contributor.
     Vijos 2: A free online judge system. Core Developer and Ops. Jul 2012 - Aug 2015
         Technologies: MongoDB, PHP
         Got positive responses from users.
