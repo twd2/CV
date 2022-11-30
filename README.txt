@@ -155,7 +155,7 @@ RESEARCH INTERESTS
 PUBLICATIONS
     > Google Scholar: https://scholar.google.com/citations?user=IDvZ0CcAAAAJ
     > dblp: https://dblp.org/pid/228/6653.html
-    > Yuan Li, * Wende Tan * , Zhizheng Lv, Songtao Yang, Mathias Payer, Ying Liu, Chao Zhang. PACMem: Enforcing Spatial and Temporal Memory Safety via ARM Pointer Authentication. In Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security (CCS), 2022. (to appear)
+    > Yuan Li, * Wende Tan * , Zhizheng Lv, Songtao Yang, Mathias Payer, Ying Liu, Chao Zhang. PACMem: Enforcing Spatial and Temporal Memory Safety via ARM Pointer Authentication. In Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security (CCS), 2022.
     > * Wende Tan * , Yuan Li, Chao Zhang, Xingman Chen, Songtao Yang, Ying Liu, Jianping Wu. ROLoad: Securing Sensitive Operations with Pointee Integrity. In Proceedings of the 58th Annual Design Automation Conference (DAC), 2021.
     > Jia-Ju Bai, Julia Lawall, * Wende Tan * , Shi-Min Hu. DCNS: Automated Detection Of Conservative Non-Sleep Defects in the Linux Kernel. In Proceedings of the 24th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2019.
     > Yu-Ping Wang, Xu-Qiang Hu, Zi-Xin Zou, * Wende Tan * , Gang Tan. IVT: An Efficient Method for Sharing Subtype Polymorphic Objects. In Proceedings of the ACM on Programming Languages Volume 3 Issue OOPSLA, October 2019.
