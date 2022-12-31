@@ -207,3 +207,4 @@ HONORS AND AWARDS
     * 2018 * The CCF (China Computer Federation) Elite Collegiate Award
     * 2019 * Outstanding Bachelor Thesis Award
     * 2021 * Siebel Scholar, Class of 2022 - awarded annually for academic excellence and demonstrated leadership to over 90 top students from the world's leading graduate schools
+    * 2022 * Outstanding Teaching Assistant Award, 3000 CNY
