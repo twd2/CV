@@ -176,6 +176,9 @@ SERVICES
     Teaching Assistant of Computer Network Principles (2021 Fall, undergraduates' major course)
         Supervised 6 outstanding students to finish the challenging hardware IPv6 router project.
         The project includes a homemade RISC-V processor with RV32I support and a forwarding engine with four one-gigabit ports wire-speed forwarding capability.  The best group achieved forwarding tables sized 8000+ IPv6 prefixes.
+    Teaching Assistant of Computer Network Principles (2022 Fall, undergraduates' major course)
+        Supervised 12 outstanding students to finish the challenging hardware IPv6 router project.
+        The project includes a homemade RISC-V processor with RV32I support and a forwarding engine with four one-gigabit ports wire-speed forwarding capability.  The best group achieved forwarding tables capable of handling the complete IPv6 routing table.
     Member of the User Representative Committee of Information Technology at Tsinghua University
 
 SELECTED PROJECTS
