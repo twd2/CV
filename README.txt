@@ -155,7 +155,7 @@ RESEARCH INTERESTS
 PUBLICATIONS
     > Google Scholar: https://scholar.google.com/citations?user=IDvZ0CcAAAAJ
     > dblp: https://dblp.org/pid/228/6653.html
-    > * Wende Tan * , Yangyu Chen, Yuan Li, Ying Liu, Jianping Wu, Yu Ding, Chao Zhang. ******. In Proceedings of the 60th Annual Design Automation Conference (DAC), 2023. (to appear)
+    > * Wende Tan * , Yangyu Chen, Yuan Li, Ying Liu, Jianping Wu, Yu Ding, Chao Zhang. PTStore: Lightweight Architectural Support for Page Table Isolation. In Proceedings of the 60th Annual Design Automation Conference (DAC), 2023. (to appear)
     > Yuan Li, * Wende Tan * , Zhizheng Lv, Songtao Yang, Mathias Payer, Ying Liu, Chao Zhang. PACMem: Enforcing Spatial and Temporal Memory Safety via ARM Pointer Authentication. In Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security (CCS), 2022.
     > * Wende Tan * , Yuan Li, Chao Zhang, Xingman Chen, Songtao Yang, Ying Liu, Jianping Wu. ROLoad: Securing Sensitive Operations with Pointee Integrity. In Proceedings of the 58th Annual Design Automation Conference (DAC), 2021.
     > Jia-Ju Bai, Julia Lawall, * Wende Tan * , Shi-Min Hu. DCNS: Automated Detection Of Conservative Non-Sleep Defects in the Linux Kernel. In Proceedings of the 24th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2019.
@@ -168,6 +168,7 @@ WORKSHOPS
 PATENTS
     > Chao Zhang, * Wende Tan * , Yuan Li, Ying Liu, Jianping Wu. 软件的保护方法、装置、电子设备及存储介质. Chinese Patent.
     > Chao Zhang, * Wende Tan * , Yuan Li, Ying Liu, Jianping Wu. 敏感数据的读取方法、装置、电子设备及存储介质. Chinese Patent.
+    > Chao Zhang, * Wende Tan * , Yuan Li, Jianping Wu. 一种硬件辅助的软件安全防护方法、设备及介质. Chinese Patent.
 
 SERVICES
     Teaching Assistant of Computer Network Principles (2020 Fall, undergraduates' major course)
