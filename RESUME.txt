@@ -44,6 +44,11 @@ PUBLICATIONS
     > Yu-Ping Wang, Xu-Qiang Hu, Zi-Xin Zou, * Wende Tan * , Gang Tan. IVT: An Efficient Method for Sharing Subtype Polymorphic Objects. In Proceedings of the ACM on Programming Languages Volume 3 Issue OOPSLA, October 2019.
     > Yu-Ping Wang, * Wende Tan * , Xu-Qiang Hu, Dinesh Manocha, Shi-Min Hu. TZC: Efficient Inter-Process Communication for Robotics Middleware with Partial Serialization. In Proceedings of the 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019.
 
+PATENTS
+    > Chao Zhang, * Wende Tan * , Yuan Li, Ying Liu, Jianping Wu. Software protection method, apparatus, electronic device, and storage medium. Chinese Patent.
+    > Chao Zhang, * Wende Tan * , Yuan Li, Ying Liu, Jianping Wu. Sensitive data reading method, apparatus, electronic device, and storage medium. Chinese Patent.
+    > Chao Zhang, * Wende Tan * , Yuan Li, Jianping Wu. A hardware-assisted software security protection method, device, and medium. Chinese Patent.
+
 SERVICES
     Teaching Assistant of Computer Network Principles (2020 Fall, undergraduates' major course)
         Supervised 18 outstanding students to finish the challenging hardware IPv4 router project.

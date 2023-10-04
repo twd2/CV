@@ -167,9 +167,9 @@ WORKSHOPS
     > Yu-Ping Wang, * Wen-De Tan * , Shi-Min Hu. Efficient Inter-Process Communication Framework for Robotics Middleware. In The Fourth Workshop on Smart Robotics, Computational Visual Media Conference, 2018.
 
 PATENTS
-    > Chao Zhang, * Wende Tan * , Yuan Li, Ying Liu, Jianping Wu. 软件的保护方法、装置、电子设备及存储介质. Chinese Patent.
-    > Chao Zhang, * Wende Tan * , Yuan Li, Ying Liu, Jianping Wu. 敏感数据的读取方法、装置、电子设备及存储介质. Chinese Patent.
-    > Chao Zhang, * Wende Tan * , Yuan Li, Jianping Wu. 一种硬件辅助的软件安全防护方法、设备及介质. Chinese Patent.
+    > Chao Zhang, * Wende Tan * , Yuan Li, Ying Liu, Jianping Wu. Software protection method, apparatus, electronic device, and storage medium. Chinese Patent.
+    > Chao Zhang, * Wende Tan * , Yuan Li, Ying Liu, Jianping Wu. Sensitive data reading method, apparatus, electronic device, and storage medium. Chinese Patent.
+    > Chao Zhang, * Wende Tan * , Yuan Li, Jianping Wu. A hardware-assisted software security protection method, device, and medium. Chinese Patent.
 
 SERVICES
     Teaching Assistant of Computer Network Principles (2020 Fall, undergraduates' major course)
