@@ -15,15 +15,15 @@ SKILLS
     Programming Environments / Tools: Altium Designer, Bash, GCC, ISE, Linux, LLVM, macOS, Qt, Quartus, Visual Studio, Vivado, Windows
 
 EDUCATION
-    Bachelor of Engineering Tsinghua University Sept 2015 - July 2019
+    Ph.D. Degree, Tsinghua University. Sept 2019 -- July 2024 (expected)
+    Major in Computer Science and Technology
+    VUL337 Team, Network and Information Security Lab (NISL)
+    GPA of degree courses: 3.86 / 4.00 (96.52%) Rank: 13 / 141 (9.22%)
+
+    Bachelor of Engineering, Tsinghua University. Sept 2015 -- July 2019
     Major in Computer Science and Technology
     GPA of first 3 years: 3.59 / 4.00 (89.75%)  Rank: 16 / 144 (11.11%)
     GPA of major courses: 3.888 / 4.000 (97.2%) Rank: 2 / 140 (1.43%)
-
-    Ph.D. Student Tsinghua University Sept 2019 - July 2024 (expected)
-    Major in Computer Science and Technology
-    Network and Information Security Lab
-    GPA of degree courses: 3.86 / 4.00 (96.52%)  Rank: 13 / 141 (9.22%)
 
 RESEARCH INTERESTS
     * System Security
@@ -48,53 +48,53 @@ WORKSHOPS
     > Yu-Ping Wang, * Wen-De Tan * , Shi-Min Hu. Efficient Inter-Process Communication Framework for Robotics Middleware. In The Fourth Workshop on Smart Robotics, Computational Visual Media Conference, 2018.
 
 PATENTS
-    > Chao Zhang, * Wende Tan * , Yuan Li, Ying Liu, Jianping Wu. Software protection method, apparatus, electronic device, and storage medium. Chinese Patent.
-    > Chao Zhang, * Wende Tan * , Yuan Li, Ying Liu, Jianping Wu. Sensitive data reading method, apparatus, electronic device, and storage medium. Chinese Patent.
-    > Chao Zhang, * Wende Tan * , Yuan Li, Jianping Wu. A hardware-assisted software security protection method, device, and medium. Chinese Patent.
+    > Chao Zhang, * Wende Tan * , Yuan Li, Jianping Wu. A hardware-assisted software security protection method, device, and medium. Chinese Patent, 2023.
+    > Chao Zhang, * Wende Tan * , Yuan Li, Ying Liu, Jianping Wu. Sensitive data reading method, apparatus, electronic device, and storage medium. Chinese Patent, 2022.
+    > Chao Zhang, * Wende Tan * , Yuan Li, Ying Liu, Jianping Wu. Software protection method, apparatus, electronic device, and storage medium. Chinese Patent, 2021.
 
 SERVICES
+    Leader of Attack and Defense Research Group in VUL337 Team. Feb 2023 -- July 2024 (expected)
     Teaching Assistant of Computer Network Principles (2020 Fall, undergraduates' major course)
         Supervised 18 outstanding students to finish the challenging hardware IPv4 router project.
-        The project includes a homemade RISC-V processor with RV32I support and a forwarding engine with four one-gigabit ports wire-speed forwarding capability.  They achieved forwarding tables sized 8000+ IPv4 prefixes on average.
+        The project includes a homemade RISC-V processor with RV32I support and a forwarding engine with four one-gigabit ports wire-speed forwarding capability.  They achieved forwarding tables sized 8,000+ IPv4 prefixes on average.
     Teaching Assistant of Computer Network Principles (2021 Fall, undergraduates' major course)
         Supervised 6 outstanding students to finish the challenging hardware IPv6 router project.
-        The project includes a homemade RISC-V processor with RV32I support and a forwarding engine with four one-gigabit ports wire-speed forwarding capability.  The best group achieved forwarding tables sized 8000+ IPv6 prefixes.
+        The project includes a homemade RISC-V processor with RV32I support and a forwarding engine with four one-gigabit ports wire-speed forwarding capability.  The best group achieved forwarding tables sized 8,000+ IPv6 prefixes.
     Teaching Assistant of Computer Network Principles (2022 Fall, undergraduates' major course)
         Supervised 12 outstanding students to finish the challenging hardware IPv6 router project.
-        The project includes a homemade RISC-V processor with RV32I support and a forwarding engine with four one-gigabit ports wire-speed forwarding capability.  The best group achieved forwarding tables capable of handling the complete IPv6 routing table.
+        The project includes a homemade RISC-V processor with RV32I support and a forwarding engine with four one-gigabit ports wire-speed forwarding capability.  The best group achieved forwarding tables capable of handling the complete IPv6 routing table (164,423 prefixes).
+    Contributor of Widely-Used Open-Source Software Projects
+        I have several patches accepted by the Linux, LLVM, and gem5 communities.
     Member of the User Representative Committee of Information Technology at Tsinghua University
 
 SELECTED PROJECTS
-    Linux: Contributor.
-    LLVM: Contributor.
-    gem5: Contributor.
-    Vijos 2: A free online judge system. Core Developer and Ops. Jul 2012 - Aug 2015
+    Vijos 2: A free online judge system. Core Developer and Ops. Jul 2012 -- Aug 2015
         Technologies: MongoDB, PHP
         Got positive responses from users.
         Not Open Source
-    vj4: A free online judge system, replacement of Vijos 2. Core Developer and Ops. Aug 2015 - Now
+    vj4: A free online judge system, replacement of Vijos 2. Core Developer and Ops. Aug 2015 -- Now
         Technologies: MongoDB, Python
         Got positive responses from users.
         GitHub: https://github.com/vijos/vj4
         GitHub: https://github.com/vijos/jd4
-    WOW_CROW: A somatic game on FPGA. Architect and Developer. May 2017 - Jun 2017
+    WOW_CROW: A somatic game on FPGA. Architect and Developer. May 2017 -- Jun 2017
         Pure hardware implementation.
         Technologies: UART, SD card support
         Classmates like it.
         GitHub: https://github.com/Colin97/WOW_CROW
-    FPGA-NAT64: A four-10gbe-port dual-stack router with IPv4 and IPv6 translation support. Sept 2019 - Dec 2019
+    FPGA-NAT64: A four-10gbe-port dual-stack router with IPv4 and IPv6 translation support. Sept 2019 -- Dec 2019
         GitHub: https://github.com/twd2/fpga-nat64
 
 HONORS AND AWARDS
-    * 2016 * Network Information Security Competition (Tongji CTF 2016), with Yanqiao ZHU, 1st place
-    * 2016 * 第三十三届全国部分地区大学生物理竞赛非物理类A组, 2nd prize
-    * 2017 * Scholarship for Academic Excellence, 3000 CNY
-    * 2018 * Tsinghua CTF Competition (THUCTF), Rank 6
-    * 2018 * Scholarship for Comprehensive Excellence, 10000 CNY
-    * 2018 * The CCF (China Computer Federation) Elite Collegiate Award
-    * 2019 * Outstanding Bachelor Thesis Award
-    * 2021 * Siebel Scholar, Class of 2022 - awarded annually for academic excellence and demonstrated leadership to over 90 top students from the world's leading graduate schools
     * 2022 * Outstanding Teaching Assistant Award, 3000 CNY
+    * 2021 * Siebel Scholar, Class of 2022 ---awarded annually for academic excellence and demonstrated leadership to over 90 top students from the world's leading graduate schools
+    * 2019 * Outstanding Bachelor Thesis Award
+    * 2018 * The CCF (China Computer Federation) Elite Collegiate Award
+    * 2018 * Scholarship for Comprehensive Excellence, 10000 CNY
+    * 2018 * Tsinghua CTF Competition (THUCTF), Rank 6
+    * 2017 * Scholarship for Academic Excellence, 3000 CNY
+    * 2016 * 第三十三届全国部分地区大学生物理竞赛非物理类A组, 2nd prize
+    * 2016 * Network Information Security Competition (Tongji CTF 2016), with Yanqiao ZHU, 1st place
 
 APPENDIX: RELEVANT COURSES
         Course
