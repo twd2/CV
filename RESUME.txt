@@ -15,7 +15,7 @@ SKILLS
     Programming Environments / Tools: Altium Designer, Bash, GCC, ISE, Linux, LLVM, macOS, Qt, Quartus, Visual Studio, Vivado, Windows
 
 EDUCATION
-    Ph.D. Degree, Tsinghua University. Sept 2019 -- July 2024 (expected)
+    Ph.D. Degree, Tsinghua University. Sept 2019 -- June 2024
     Major in Computer Science and Technology
     VUL337 Team, Network and Information Security Lab (NISL)
     GPA of degree courses: 3.86 / 4.00 (96.52%) Rank: 13 / 141 (9.22%)
@@ -50,7 +50,7 @@ PATENTS
     > Chao Zhang, * Wende Tan * , Yuan Li, Ying Liu, Jianping Wu. Software protection method, apparatus, electronic device, and storage medium. Chinese Patent, 2021.
 
 SERVICES
-    Leader of Attack and Defense Research Group in VUL337 Team. Feb 2023 -- July 2024 (expected)
+    Leader of Attack and Defense Research Group in VUL337 Team. Feb 2023 -- June 2024
     Teaching Assistant of Computer Network Principles (2020 Fall, undergraduates' major course)
         Supervised 18 outstanding students to finish the challenging hardware IPv4 router project.
         The project includes a homemade RISC-V processor with RV32I support and a forwarding engine with four one-gigabit ports wire-speed forwarding capability.  They achieved forwarding tables sized 8,000+ IPv4 prefixes on average.
@@ -65,6 +65,8 @@ SERVICES
     Member of the User Representative Committee of Information Technology at Tsinghua University
 
 HONORS AND AWARDS
+    * 2024 * Outstanding Graduate of the Department of Computer Science and Technology, Tsinghua University
+    * 2024 * Outstanding Doctoral Dissertation Award
     * 2022 * Outstanding Teaching Assistant Award, 3000 CNY
     * 2021 * Siebel Scholar, Class of 2022 ---awarded annually for academic excellence and demonstrated leadership to over 90 top students from the world's leading graduate schools
     * 2019 * Outstanding Bachelor Thesis Award
